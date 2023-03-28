@@ -34,3 +34,8 @@ body {
 .bg-danger {
     color: white;
 }
+
+.button-row {
+    display: flex;
+    justify-content: center;
+}

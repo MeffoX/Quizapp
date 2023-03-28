@@ -89,4 +89,7 @@ let questions = [{
     }
 ];
 
+let rightQuestions = 0;
 let currentQuestion = 0;
+let AUDIO_SUCCESS = new Audio('media/success.mp3');
+let AUDIO_FAIL = new Audio('media/wrong.mp3');
