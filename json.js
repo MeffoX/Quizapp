@@ -88,3 +88,5 @@ let questions = [{
         "right_answer": 2
     }
 ];
+
+let currentQuestion = 0;
